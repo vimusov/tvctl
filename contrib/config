@@ -1,0 +1,11 @@
+# Path to port.
+
+/dev/ttyUSB0
+
+# Remote control keycodes to keyboards shortcuts mapping.
+# Run `tvctl -debug` to get the first ones.
+# Read `man xte` to get the latter.
+
+130: Up  # red button
+131: Down  # blue button
+19: Shift+3  # enter button
